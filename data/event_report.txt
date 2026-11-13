@@ -1,0 +1,28 @@
+CAMPUS EVENT MANAGEMENT REPORT
+====================================
+
+Total Events: 2
+
+Event Name: codex
+Date: 17-11-2026
+Venue: audi
+Maximum Capacity: 1
+Registered Students: 1
+Available Seats: 0
+
+PARTICIPANTS:
+1. priya - 25it
+------------------------------------
+
+Event Name: hackathon
+Date: 15-12-2026
+Venue: lab
+Maximum Capacity: 70
+Registered Students: 1
+Available Seats: 69
+
+PARTICIPANTS:
+1. hari - 26it
+------------------------------------
+
+Total Registrations: 2
